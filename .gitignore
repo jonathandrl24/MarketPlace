@@ -1,0 +1,19 @@
+#ide editors
+.project
+.classpath
+*.launch
+.settings/
+.vscode/*
+
+#class file
+*.class
+*.log
+
+#package py
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
+*.ear
+*.nar
